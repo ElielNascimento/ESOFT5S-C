@@ -1,4 +1,4 @@
-package natalia;
+package com.bn.crud.natalia;
 
 public class NataliaService {
 }
